@@ -1,2 +1,2 @@
-# Java_Projects
-Projects written in Java
+# ChatServer + Client
+Chatserver & Client written in Java
