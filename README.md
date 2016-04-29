@@ -1,2 +1,2 @@
 # Java_Projects
-Server + Client in Java
+Projects written in Java
